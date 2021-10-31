@@ -7,6 +7,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Betelgeuse](/Betelgeuse) theme
 
 ![](/Betelgeuse/preview.png)
+#### [Rigel](/Rigel) theme
+
+![](/Rigel/preview.png)
+- Change the purple color as you want by changing color2 value in Rigel.conf
 
 ----------------------------------------------------------------
 
