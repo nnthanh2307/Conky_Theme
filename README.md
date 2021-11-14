@@ -11,13 +11,17 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Rigel/preview.png)
 - Change the purple color as you want by changing color2 value in Rigel.conf
+#### [Bellatrix](/Bellatrix) theme
+
+![](/Bellatrix/preview.png)
 #### [Meissa](/Meissa) theme
 
 ![](/Meissa/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/3ytjETpQMNY)
-#### [Bellatrix](/Bellatrix) theme
+#### [Thabit](/Thabit) theme
 
-![](/Bellatrix/preview.png)
+![](/Thabit/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/bAYnUAtV9aY)
 
 ----------------------------------------------------------------
 
