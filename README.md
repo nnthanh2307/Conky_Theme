@@ -22,7 +22,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Thabit/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/bAYnUAtV9aY)
+---------------------------------------------------
+### Featured
+#### [Altair](/Altair) theme
 
+![](/Altair/preview.png)
 ----------------------------------------------------------------
 
 ## Note :
