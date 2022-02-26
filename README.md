@@ -27,7 +27,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Altair](/Altair) theme
 
 ![](/Altair/preview.png)
-----------------------------------------------------------------
+#### [Aludra](/Aludra) theme
+
+![](/Aludra/preview.png)
+-----------------------------------------------------
 
 ## Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer
@@ -46,7 +49,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## How to use theme :
 - Clone this repo by command
   ```bash
-  git clone https://github.com/closebox73/Leonis.git
+  git clone https://github.com/closebox73/Orion.git
   ```
 - Move one or more theme folders into ~/.config/conky/
 - Open a folder that will be used and Install all font in fonts folder ( if you haven't installed the font ) then update font cache
