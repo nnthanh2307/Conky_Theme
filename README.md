@@ -24,6 +24,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - Wallpaper [Here](https://unsplash.com/photos/bAYnUAtV9aY)
 ---------------------------------------------------
 ### Featured
+#### [Zavijava](/Zavijava) theme
+
+![](/Zavijava/preview.png)
 #### [Altair](/Altair) theme
 
 ![](/Altair/preview.png)
@@ -36,6 +39,8 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - syntax configuration of this theme for conky version 1.10.8 or newer
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
 - The music player I used was `mpd`
+- If the network speed doesn't work, try changing the network interface according to yours, the way to check is as follows
+	![](/Asset/Wlan.png)
 - I currently use Openbox, sometimes for other DE requires a slightly different setting
 - All fonts i get from:
 	 - [Dafont](https://www.dafont.com)
@@ -56,6 +61,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - For weather theme you must have API KEY and city id ( you can get it [Here](https://openweathermap.org) and fill weather.sh in scripts folder
 - Execute `start.sh`
 - If you use conky-manager2, just check the theme to be installed
+	![](/Asset/CM2.png)
 - Done
 
 ## Last
