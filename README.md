@@ -24,9 +24,6 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - Wallpaper [Here](https://unsplash.com/photos/bAYnUAtV9aY)
 ---------------------------------------------------
 ### Featured
-#### [Maia](/Maia) theme
-
-![](/Maia/preview.png)
 #### [Zavijava](/Zavijava) theme
 
 ![](/Zavijava/preview.png)
