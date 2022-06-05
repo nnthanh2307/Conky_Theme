@@ -9,6 +9,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ## Showcase :
 
+### :rocket: New theme !!!! :rocket:
+#### [Alnilam](/Alnilam) theme
+
+![](/Alnilam/preview.png)
+---------------------------------------------------
 #### [Betelgeuse](/Betelgeuse) theme
 
 ![](/Betelgeuse/preview.png)
@@ -41,7 +46,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 -----------------------------------------------------
 
 ## Note :
-- syntax configuration of this theme for conky version 1.10.8 or newer
+- syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
 - The music player I used was `mpd`
 - If the network speed doesn't work, try changing the network interface according to yours, the way to check is as follows
