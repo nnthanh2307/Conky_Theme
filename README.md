@@ -37,6 +37,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Zavijava](/Zavijava) theme
 
 ![](/Zavijava/preview.png)
+#### [Syrma](/Syrma) theme
+
+![](/Syrma/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/cRCyuPRuVfw)
 #### [Altair](/Altair) theme
 
 ![](/Altair/preview.png)
