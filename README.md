@@ -36,11 +36,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ### Featured
 #### [Zavijava](/Zavijava) theme
 
-![](/Zavijava/preview.png)
+![](/Asset/zavijava.png)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1835282/)
 #### [Syrma](/Syrma) theme
 
 ![](/Syrma/preview.png)
-- Wallpaper [Here](https://unsplash.com/photos/cRCyuPRuVfw)
 #### [Altair](/Altair) theme
 
 ![](/Altair/preview.png)
