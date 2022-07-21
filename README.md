@@ -5,11 +5,12 @@
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
 ## :cyclone: Showcase :
+I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ### :rocket: New theme !!!! :rocket:
-#### [Alnilam](/Alnilam) theme
+#### [Saiph](/Saiph) theme
 
-![](/Alnilam/preview.png)
+![](/Saiph/preview.png)
 ---------------------------------------------------
 #### [Betelgeuse](/Betelgeuse) theme
 
@@ -32,6 +33,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Thabit/preview.png)
 - This theme can be downloaded separately at Pling.com [Link](https://www.pling.com/p/1846822/)
+#### [Alnilam](/Alnilam) theme
+
+![](/Alnilam/preview.png)
 ---------------------------------------------------
 ### Featured
 #### [Zavijava](/Zavijava) theme
