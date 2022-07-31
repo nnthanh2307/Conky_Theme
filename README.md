@@ -109,11 +109,18 @@ one of them are the following people:
 - [G Nussbaum](https://github.com/gnussbaum67)
 - [Yittri](https://github.com/yittri)
 - [Linuxscoop](https://github.com/linuxscoop/)
+- [Ilham Adiputra](https://github.com/ilham25/)
+- Jose Arivar Lira Jr
 
 ## :cyclone: Last
-- these themes are inspired by
+#### these themes are inspired by
 	- KWGT widget for Android
 	- ZOOPER widget
-	- RAINMETER 
+	- RAINMETER
+	
+#### Credits
+	- Mini Clock Lua by easysid & Etles_Team
+	- Bargraph Lua by wlourf
+	- Rings meter Lua by londonali1010
 
 <p align="center"><a href="https://github.com/closebox73/Orion/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=ff7f2a"/></a></p>
