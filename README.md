@@ -8,9 +8,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ### :rocket: New theme !!!! :rocket:
-#### [Saiph](/Saiph) theme
+#### [Vega](/Vega) theme
 
-![](/Saiph/preview.png)
+![](/Asset/vega.png)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1892201/)
 ---------------------------------------------------
 #### [Betelgeuse](/Betelgeuse) theme
 
@@ -36,6 +37,9 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 #### [Alnilam](/Alnilam) theme
 
 ![](/Alnilam/preview.png)
+#### [Saiph](/Saiph) theme
+
+![](/Saiph/preview.png)
 ---------------------------------------------------
 ### Featured
 #### [Zavijava](/Zavijava) theme
