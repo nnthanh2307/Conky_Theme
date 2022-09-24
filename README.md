@@ -10,52 +10,52 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 ### :rocket: New theme !!!! :rocket:
 #### [Vega](/Vega) theme
 
-![](/Asset/vega.png)
+![](/Asset/Vega.jpg)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1892201/)
 ---------------------------------------------------
 #### [Betelgeuse](/Betelgeuse) theme
 
-![](/Asset/betelgeuse.png)
+![](/Asset/Betelgeuse.jpg)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1837404/)
 #### [Rigel](/Rigel) theme
 
-![](/Rigel/preview.png)
+![](/Asset/Rigel.jpg)
 - Change the purple color as you want by changing color2 value in Rigel.conf
 - This theme can be downloaded separately at Pling.com [Link](https://www.pling.com/p/1837255/)
 #### [Bellatrix](/Bellatrix) theme
 
-![](/Bellatrix/preview.png)
+![](/Asset/Bellatrix.jpg)
 #### [Meissa](/Meissa) theme
 
-![](/Asset/meissa.png)
+![](/Asset/Meissa.jpg)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1835096/)
 - Wallpaper [Here](https://unsplash.com/photos/3ytjETpQMNY)
 #### [Thabit](/Thabit) theme
 
-![](/Thabit/preview.png)
+![](/Asset/Thabit.jpg)
 - This theme can be downloaded separately at Pling.com [Link](https://www.pling.com/p/1846822/)
 #### [Alnilam](/Alnilam) theme
 
-![](/Alnilam/preview.png)
+![](/Asset/Alnilam.jpg)
 #### [Saiph](/Saiph) theme
 
-![](/Saiph/preview.png)
+![](/Asset/Saiph.jpg)
 ---------------------------------------------------
 ### Featured
 #### [Zavijava](/Zavijava) theme
 
-![](/Asset/zavijava.png)
+![](/Asset/Zavijava.jpg)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1835282/)
 #### [Syrma](/Syrma) theme
 
-![](/Syrma/preview.png)
+![](/Asset/Syrma.jpg)
 #### [Altair](/Altair) theme
 
-![](/Altair/preview.png)
+![](/Asset/Altair.jpg)
 - This theme can be downloaded separately at Pling.com [Link](https://www.pling.com/p/1836006/)
 #### [Aludra](/Aludra) theme
 
-![](/Asset/aludra.png)
+![](/Asset/Aludra.jpg)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1843380/)
 -----------------------------------------------------
 
