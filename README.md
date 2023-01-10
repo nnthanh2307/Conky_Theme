@@ -2,64 +2,64 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Chepeus&countColor=%23FE7E29)
 
-A Conky themes pack which I made in hopes of beautifying your desktop 
+A Conky themes pack which I made in hopes of beautifying your desktop, for now this repository is only used as a catalog for the themes that I made, and as a place to look for solutions if there are errors from that theme
 
-## :cyclone: Showcase :
-I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
+## :framed_picture: Showcase :
+Thanks for dropping by, I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
-### :rocket: New theme !!!! :rocket:
-#### [Vega](/Vega) theme
-
+### :stars: Vega theme
 ![](/Asset/Vega.jpg)
-- Now only available at Pling.com [Link](https://www.pling.com/p/1892201/)
----------------------------------------------------
-#### [Betelgeuse](/Betelgeuse) theme
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1892201/)
 
+### :stars: Betelgeuse theme
+#### Josefin Sans version
 ![](/Asset/Betelgeuse.jpg)
-- Now only available at Pling.com [Link](https://www.pling.com/p/1837404/)
-#### [Rigel](/Rigel) theme
+#### Bebas Neue version
+![](/Asset/Betelgeuse2.jpg)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1837404/)
 
+### :stars: Rigel theme
 ![](/Asset/Rigel.jpg)
 - Change the purple color as you want by changing color2 value in Rigel.conf
-- This theme can be downloaded separately at Pling.com [Link](https://www.pling.com/p/1837255/)
-#### [Bellatrix](/Bellatrix) theme
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1837255/)
 
+### :stars: Bellatrix theme
 ![](/Asset/Bellatrix.jpg)
-#### [Meissa](/Meissa) theme
 
+### :stars: Meissa theme
 ![](/Asset/Meissa.jpg)
-- Now only available at Pling.com [Link](https://www.pling.com/p/1835096/)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1835096/)
 - Wallpaper [Here](https://unsplash.com/photos/3ytjETpQMNY)
-#### [Thabit](/Thabit) theme
 
+### :stars: Thabit theme
 ![](/Asset/Thabit.jpg)
-- This theme can be downloaded separately at Pling.com [Link](https://www.pling.com/p/1846822/)
-#### [Alnilam](/Alnilam) theme
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1846822/)
 
+### :stars: Alnilam theme
 ![](/Asset/Alnilam.jpg)
-#### [Saiph](/Saiph) theme
 
+### :stars: Saiph theme
 ![](/Asset/Saiph.jpg)
 ---------------------------------------------------
 ### Featured
-#### [Zavijava](/Zavijava) theme
+### :stars: Zavijava theme
 
 ![](/Asset/Zavijava.jpg)
-- Now only available at Pling.com [Link](https://www.pling.com/p/1835282/)
-#### [Syrma](/Syrma) theme
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1835282/)
 
+### :stars: Syrma theme
 ![](/Asset/Syrma.jpg)
-#### [Altair](/Altair) theme
 
+### :stars: Altair theme
 ![](/Asset/Altair.jpg)
-- This theme can be downloaded separately at Pling.com [Link](https://www.pling.com/p/1836006/)
-#### [Aludra](/Aludra) theme
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1836006/)
 
+### :stars: Aludra theme
 ![](/Asset/Aludra.jpg)
-- Now only available at Pling.com [Link](https://www.pling.com/p/1843380/)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1843380/)
 -----------------------------------------------------
 
-## :cyclone: Tip Jar :
+## :moneybag: Tip Jar :
 if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
 thank you from all my heart
 
@@ -69,42 +69,21 @@ thank you from all my heart
 
 or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
 
-## :cyclone: Note :
-- syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
-- the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
-- The music player I used was `mpd`
-- If the network speed doesn't work, try changing the network interface according to yours, the way to check is as follows
-	![](/Asset/Wlan.png)
-- I currently use Openbox and XFCE, sometimes for other DE requires a slightly different setting
-	if you know how to set it on another DE (if an error occurs) please let me know and I will post it here
-- Font Source :
-	 - [Comfortaa](https://fonts.google.com/specimen/Comfortaa)
-	 - [Feather icon font](https://github.com/AT-UI/feather-font)
-	 - [Beckman](https://www.dafont.com/beckman.font)
-	 - [Evil Empire](https://www.dafont.com/evil-empire.font)
-	 - [Nunito](https://fonts.google.com/specimen/Nunito)
-	 - [Anton](https://fonts.google.com/specimen/Anton)
-	 - [Dancing Script](https://fonts.google.com/specimen/Dancing+Script)
-	 - [Rubik](https://fonts.google.com/specimen/Rubik)
-	 - [Dosis](https://fonts.google.com/specimen/Dosis)
+## :desktop_computer: How to use theme :
+- Download the theme in the link below the preview of each theme
+- Then read this [Instruction](https://github.com/closebox73/applying-theme)
+- If there is an error in my theme, please add it to the issue
 
-## :cyclone: Requirements :
-- Conky version 1.10.8 or newer ( open this  [Link](https://github.com/brndnmtthws/conky) for instalation )
-- for the weather theme I download the data using `curl` in json format, and use `jq` to process the data, please install first.
-- if you want to use the GUI when installing the theme, please install [conky-manager2](https://github.com/zcot/conky-manager2)
-
-## :cyclone: How to use theme :
-- Clone this repo by command
-  ```bash
-  git clone https://github.com/closebox73/Orion.git
-  ```
-- Move one or more theme folders into ~/.config/conky/
-- Open a folder that will be used and Install all font in fonts folder ( if you haven't installed the font ) then update font cache
-- For weather theme you must have API KEY and city id ( you can get it [Here](https://openweathermap.org) and fill weather.sh in scripts folder
-- Execute `start.sh`
-- If you use conky-manager2, just check the theme to be installed
-	![](/Asset/CM2.png)
-- Done
+## :abc: Font Source :
+- [Comfortaa](https://fonts.google.com/specimen/Comfortaa)
+- [Feather icon font](https://github.com/AT-UI/feather-font)
+- [Beckman](https://www.dafont.com/beckman.font)
+- [Evil Empire](https://www.dafont.com/evil-empire.font)
+- [Nunito](https://fonts.google.com/specimen/Nunito)
+- [Anton](https://fonts.google.com/specimen/Anton)
+- [Dancing Script](https://fonts.google.com/specimen/Dancing+Script)
+- [Rubik](https://fonts.google.com/specimen/Rubik)
+- [Dosis](https://fonts.google.com/specimen/Dosis)
 
 ## :gift: Special Thanks :
 I thank the people who have supported me,which makes me more excited to make new themes<br />
@@ -114,7 +93,18 @@ one of them are the following people:
 - [Yittri](https://github.com/yittri)
 - [Linuxscoop](https://github.com/linuxscoop/)
 - [Ilham Adiputra](https://github.com/ilham25/)
+
+And the greatest appreciation for the people who have bought my theme at my [Ko-Fi Shop](https://ko-fi.com/closebox73)
+
+- Andrew J.
+- Yikang Y.
+- Justin Y.
+- Malik N.
+- Aidyn J.
+- Ockham O.
+- Seurya
 - Jose Arivar Lira Jr
+- and others
 
 ## :cyclone: Last
 #### these themes are inspired by
