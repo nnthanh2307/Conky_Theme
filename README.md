@@ -25,6 +25,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :stars: Bellatrix theme
 ![](/Asset/Bellatrix.jpg)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
 
 ### :stars: Meissa theme
 ![](/Asset/Meissa.jpg)
@@ -37,9 +38,13 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :stars: Alnilam theme
 ![](/Asset/Alnilam.jpg)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
+- Wallpaper [Here](https://www.pling.com/p/1971787)
 
 ### :stars: Saiph theme
 ![](/Asset/Saiph.jpg)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
+- Wallpaper [Here](https://unsplash.com/photos/JQd1DRF2gpQ)
 ---------------------------------------------------
 ### Featured
 ### :stars: Zavijava theme
@@ -49,6 +54,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :stars: Syrma theme
 ![](/Asset/Syrma.jpg)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
 
 ### :stars: Altair theme
 ![](/Asset/Altair.jpg)
