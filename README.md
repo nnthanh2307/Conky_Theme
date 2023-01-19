@@ -7,60 +7,60 @@ A Conky themes pack which I made in hopes of beautifying your desktop, for now t
 ## :framed_picture: Showcase :
 Thanks for dropping by, I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
-### :stars: Vega theme
+### :crossed_swords: Vega theme
 ![](/Asset/Vega.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1892201/)
 
-### :stars: Betelgeuse theme
+### :crossed_swords: Betelgeuse theme
 #### Josefin Sans version
 ![](/Asset/Betelgeuse.jpg)
 #### Bebas Neue version
 ![](/Asset/Betelgeuse2.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1837404/)
 
-### :stars: Rigel theme
+### :crossed_swords: Rigel theme
 ![](/Asset/Rigel.jpg)
 - Change the purple color as you want by changing color2 value in Rigel.conf
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1837255/)
 
-### :stars: Bellatrix theme
+### :crossed_swords: Bellatrix theme
 ![](/Asset/Bellatrix.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
 
-### :stars: Meissa theme
+### :crossed_swords: Meissa theme
 ![](/Asset/Meissa.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1835096/)
 - Wallpaper [Here](https://unsplash.com/photos/3ytjETpQMNY)
 
-### :stars: Thabit theme
+### :crossed_swords: Thabit theme
 ![](/Asset/Thabit.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1846822/)
 
-### :stars: Alnilam theme
+### :crossed_swords: Alnilam theme
 ![](/Asset/Alnilam.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
 - Wallpaper [Here](https://www.pling.com/p/1971787)
 
-### :stars: Saiph theme
+### :crossed_swords: Saiph theme
 ![](/Asset/Saiph.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
 - Wallpaper [Here](https://unsplash.com/photos/JQd1DRF2gpQ)
 ---------------------------------------------------
 ### Featured
-### :stars: Zavijava theme
+### :crossed_swords: Zavijava theme
 
 ![](/Asset/Zavijava.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1835282/)
 
-### :stars: Syrma theme
+### :crossed_swords: Syrma theme
 ![](/Asset/Syrma.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
 
-### :stars: Altair theme
+### :crossed_swords: Altair theme
 ![](/Asset/Altair.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1836006/)
 
-### :stars: Aludra theme
+### :crossed_swords: Aludra theme
 ![](/Asset/Aludra.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1843380/)
 -----------------------------------------------------
