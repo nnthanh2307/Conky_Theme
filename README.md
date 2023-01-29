@@ -61,7 +61,11 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ![](/Asset/Altair2.jpg)
 #### Light Version
 ![](/Asset/Altair.jpg)
+- Version : 2.0
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1836006/)
+- Font :
+	- [Feather](https://github.com/AT-UI/feather-font)
+	- [Dosis](https://fonts.google.com/specimen/Dosis)
 
 ### :crossed_swords: Aludra theme
 ![](/Asset/Aludra.jpg)
