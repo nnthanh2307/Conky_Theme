@@ -9,60 +9,63 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :crossed_swords: Vega theme
 ![](/Asset/Vega.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1892201/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1892201/)
 
 ### :crossed_swords: Betelgeuse theme
 #### Josefin Sans version
 ![](/Asset/Betelgeuse.jpg)
 #### Bebas Neue version
 ![](/Asset/Betelgeuse2.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1837404/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1837404/)
 
 ### :crossed_swords: Rigel theme
 ![](/Asset/Rigel.jpg)
 - Change the purple color as you want by changing color2 value in Rigel.conf
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1837255/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1837255/)
 
 ### :crossed_swords: Bellatrix theme
 ![](/Asset/Bellatrix.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 
 ### :crossed_swords: Meissa theme
 ![](/Asset/Meissa.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1835096/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1835096/)
 - Wallpaper [Here](https://unsplash.com/photos/3ytjETpQMNY)
 
 ### :crossed_swords: Thabit theme
 ![](/Asset/Thabit.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1846822/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1846822/)
 
 ### :crossed_swords: Alnilam theme
 ![](/Asset/Alnilam.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 - Wallpaper [Here](https://www.pling.com/p/1971787)
 
 ### :crossed_swords: Saiph theme
 ![](/Asset/Saiph.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 - Wallpaper [Here](https://unsplash.com/photos/JQd1DRF2gpQ)
 ---------------------------------------------------
 ### Featured
 ### :crossed_swords: Zavijava theme
 
 ![](/Asset/Zavijava.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1835282/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1835282/)
 
 ### :crossed_swords: Syrma theme
 ![](/Asset/Syrma.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1972819/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 
 ### :crossed_swords: Altair theme
+#### Dark Version
+![](/Asset/Altair2.jpg)
+#### Light Version
 ![](/Asset/Altair.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1836006/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1836006/)
 
 ### :crossed_swords: Aludra theme
 ![](/Asset/Aludra.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1843380/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1843380/)
 -----------------------------------------------------
 
 ## :moneybag: Tip Jar :
@@ -76,7 +79,7 @@ thank you from all my heart
 or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
 
 ## :desktop_computer: How to use theme :
-- Download the theme in the link below the preview of each theme
+- Download the theme in the Here below the preview of each theme
 - Then read this [Instruction](https://github.com/closebox73/applying-theme)
 - If there is an error in my theme, please add it to the issue
 
