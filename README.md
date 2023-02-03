@@ -11,6 +11,8 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ![](/Asset/Vega.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1892201/)
 
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 ### :crossed_swords: Betelgeuse theme
 #### Josefin Sans version
 ![](/Asset/Betelgeuse.jpg)
@@ -18,28 +20,40 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ![](/Asset/Betelgeuse2.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1837404/)
 
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 ### :crossed_swords: Rigel theme
 ![](/Asset/Rigel.jpg)
 - Change the purple color as you want by changing color2 value in Rigel.conf
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1837255/)
 
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 ### :crossed_swords: Bellatrix theme
 ![](/Asset/Bellatrix.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Meissa theme
 ![](/Asset/Meissa.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1835096/)
 - Wallpaper [Here](https://unsplash.com/photos/3ytjETpQMNY)
 
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 ### :crossed_swords: Thabit theme
 ![](/Asset/Thabit.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1846822/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Alnilam theme
 ![](/Asset/Alnilam.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 - Wallpaper [Here](https://www.pling.com/p/1971787)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Saiph theme
 ![](/Asset/Saiph.jpg)
@@ -48,13 +62,16 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ---------------------------------------------------
 ### Featured
 ### :crossed_swords: Zavijava theme
-
 ![](/Asset/Zavijava.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1835282/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Syrma theme
 ![](/Asset/Syrma.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Altair theme
 #### Dark Version
@@ -66,6 +83,8 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 - Font :
 	- [Feather](https://github.com/AT-UI/feather-font)
 	- [Dosis](https://fonts.google.com/specimen/Dosis)
+	
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Aludra theme
 ![](/Asset/Aludra.jpg)
@@ -109,6 +128,8 @@ one of them are the following people:
 
 And the greatest appreciation for the people who have bought my theme at my [Ko-Fi Shop](https://ko-fi.com/closebox73)
 
+- Ageless_ZA
+- Ignacio M.
 - Andrew J.
 - Yikang Y.
 - Justin Y.
