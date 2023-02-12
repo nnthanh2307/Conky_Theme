@@ -63,21 +63,29 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ![](/Asset/Saiph.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 - Wallpaper [Here](https://unsplash.com/photos/JQd1DRF2gpQ)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
+### :crossed_swords: Mintaka theme
+![](/Asset/Mintaka.jpg)
 ---------------------------------------------------
 ### Featured
 ### :crossed_swords: Zavijava theme
+*( from Virgo Constellation )*
 ![](/Asset/Zavijava.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1835282/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Syrma theme
+*( from Virgo Constellation )*
 ![](/Asset/Syrma.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Altair theme
+*( from Aquila Constellation )*
 #### Dark Version
 ![](/Asset/Altair2.jpg)
 #### Light Version
@@ -91,6 +99,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Aludra theme
+*( from Canis Major Constellation )*
 ![](/Asset/Aludra.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1843380/)
 -----------------------------------------------------
