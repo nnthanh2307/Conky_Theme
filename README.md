@@ -37,9 +37,13 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :crossed_swords: Meissa theme
 ![](/Asset/Meissa.jpg)
+- Version : 2.0
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1835096/)
 - Wallpaper [Here](https://unsplash.com/photos/3ytjETpQMNY)
-
+- Font :
+	- [Smooch](https://fonts.google.com/specimen/Smooch)
+	- [Roboto](https://fonts.google.com/specimen/Roboto)
+	
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Thabit theme
@@ -106,16 +110,16 @@ or the easiest way is to download my theme on [Pling.com](https://www.pling.com/
 - Then read this [Instruction](https://github.com/closebox73/applying-theme)
 - If there is an error in my theme, please add it to the issue
 
-## :abc: Font Source :
-- [Comfortaa](https://fonts.google.com/specimen/Comfortaa)
-- [Feather icon font](https://github.com/AT-UI/feather-font)
-- [Beckman](https://www.dafont.com/beckman.font)
-- [Evil Empire](https://www.dafont.com/evil-empire.font)
-- [Nunito](https://fonts.google.com/specimen/Nunito)
-- [Anton](https://fonts.google.com/specimen/Anton)
-- [Dancing Script](https://fonts.google.com/specimen/Dancing+Script)
-- [Rubik](https://fonts.google.com/specimen/Rubik)
-- [Dosis](https://fonts.google.com/specimen/Dosis)
+## Material Source :
+### :abc: Font
+I always try to use fonts that can be used for free and that's what I got at :
+- [Google Fonts](https://fonts.google.com/)
+- [DaFont Fonts](https://dafont.com/)
+- [Fontsquirrel](https://fontsquirrel.com)
+
+### :framed_picture: Wallpaper
+as well as the wallpaper, i got it at
+- [Unsplash](https://unsplash.com/)
 
 ## :gift: Special Thanks :
 I thank the people who have supported me,which makes me more excited to make new themes<br />
