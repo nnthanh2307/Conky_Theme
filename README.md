@@ -7,6 +7,16 @@ A Conky themes pack which I made in hopes of beautifying your desktop, for now t
 ## :framed_picture: Showcase :
 Thanks for dropping by, I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
+### :rocket: NEW THEME!! :rocket:
+### :crossed_swords: Mintaka theme
+![](/Asset/Mintaka.jpg)
+- Versio 1.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1989052/)
+- Font :
+	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 ### :crossed_swords: Vega theme
 ![](/Asset/Vega.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1892201/)
@@ -63,11 +73,6 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ![](/Asset/Saiph.jpg)
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 - Wallpaper [Here](https://unsplash.com/photos/JQd1DRF2gpQ)
-
-<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
-
-### :crossed_swords: Mintaka theme
-![](/Asset/Mintaka.jpg)
 ---------------------------------------------------
 ### Featured
 ### :crossed_swords: Zavijava theme
