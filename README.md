@@ -6,7 +6,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop, for now t
 
 ## :book: The Myth about Orion
 Orion, The Hunter, was a giant renowned for his hunting skill.  But he was also boastful, a trait that is sure to get you in trouble with the gods.  Orion bragged that there was no beast that could kill him.  Upon hearing this Hera sent a little scorpion (see Scorpius) to sting him.  Orion smashed the scorpion but it was too late; it had fatally stung him.  Both were placed in the stars, on opposite sides of the sky, so they are never in the heavens at the same time.<br>
-*( Source : [Under the night sky](http://www.underthenightsky.com/constellations/orion/))*
+*( Source : [Under the night sky ](http://www.underthenightsky.com/constellations/orion/))*
 
 ![](/Asset/Orion.jpg)
 |--|
