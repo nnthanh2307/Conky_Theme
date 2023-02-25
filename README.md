@@ -17,7 +17,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ### :rocket: NEW THEME!! :rocket:
 ### :crossed_swords: Mintaka theme
 ![](/Asset/Mintaka.jpg)
-- Versio 1.0
+- Version : 1.0
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1989052/)
 - Font :
 	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
@@ -25,8 +25,16 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :crossed_swords: Vega theme
+#### Dark Version
 ![](/Asset/Vega.jpg)
+#### Light Version
+![](/Asset/Vega-Light.jpg)
+- Version : 2.0
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1892201/)
+- Font : 
+	- [Feather](https://github.com/AT-UI/feather-font)
+	- [Raleway](https://fonts.google.com/specimen/Raleway)
+	- [League Spartan](https://fonts.google.com/specimen/League+Spartan)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
@@ -35,7 +43,11 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ![](/Asset/Betelgeuse.jpg)
 #### Bebas Neue version
 ![](/Asset/Betelgeuse2.jpg)
+- Version : 1.7
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1837404/)
+- Font :
+	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+	- [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
