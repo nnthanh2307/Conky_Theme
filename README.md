@@ -16,9 +16,13 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :rocket: NEW THEME!! :rocket:
 ### :crossed_swords: Mintaka theme
+#### Date Only version
 ![](/Asset/Mintaka.jpg)
-- Version : 1.0
+#### Weather version
+![](/Asset/Mintaka2.jpg)
+- Version : 1.6
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1989052/)
+- Wallpaper [Here](https://unsplash.com/photos/wQImoykAwGs)
 - Font :
 	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
 
