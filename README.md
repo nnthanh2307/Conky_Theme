@@ -20,7 +20,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ![](/Asset/Mintaka.jpg)
 #### Weather version
 ![](/Asset/Mintaka2.jpg)
-- Version : 1.6
+- Version : 2.0
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1989052/)
 - Wallpaper [Here](https://unsplash.com/photos/wQImoykAwGs)
 - Font :
@@ -189,7 +189,10 @@ And the greatest appreciation for the people who have bought my theme at my [Ko-
 	
 #### Credits
 	- Mini Clock Lua by easysid & Etles_Team
+	- Imlib Clock Lua by Etles_Team
 	- Bargraph Lua by wlourf
 	- Rings meter Lua by londonali1010
 
+![](/Asset/logos.png)
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 <p align="center"><a href="https://github.com/closebox73/Orion/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=GNU GENERAL PUBLIC LICENSE v3&logoColor=white&logo=github&colorA=282C35&colorB=ff7f2a"/></a></p>
