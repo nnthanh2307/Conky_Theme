@@ -58,7 +58,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ### :crossed_swords: Rigel theme
 ![](/Asset/Rigel.jpg)
 - Change the purple color as you want by changing color2 value in Rigel.conf
-- Download this theme at Pling.com [Here](https://www.pling.com/p/1837255/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
@@ -71,7 +71,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ### :crossed_swords: Meissa theme
 ![](/Asset/Meissa.jpg)
 - Version : 2.0
-- Download this theme at Pling.com [Here](https://www.pling.com/p/1835096/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 - Wallpaper [Here](https://unsplash.com/photos/3ytjETpQMNY)
 - Font :
 	- [Smooch](https://fonts.google.com/specimen/Smooch)
@@ -81,7 +81,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :crossed_swords: Thabit theme
 ![](/Asset/Thabit.jpg)
-- Download this theme at Pling.com [Here](https://www.pling.com/p/1846822/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1972819/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
